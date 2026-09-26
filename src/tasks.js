@@ -1,3 +1,11 @@
+CampusEats task list
+const tasks = [
+  "Design the menu screen",
+  "Build the orders API",
+  "Add user login",
+];
+console.log(`CampusEats has ${tasks.length} open tasks`);
+
 // AFTER — clear names, no magic numbers, no secrets
 const VIP_DISCOUNT = 0.1;
 
